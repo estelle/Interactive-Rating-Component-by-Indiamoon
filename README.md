@@ -1,2 +1,3 @@
 # Interactive-Rating-Component-by-Indiamoon
-Interactive Rating Component by Indiamoon html css javascript
+
+Forked this repo to add a PR that provides attribution to the original author of the code example because Indiamoon did NOT write this code.
